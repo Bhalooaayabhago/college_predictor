@@ -1,0 +1,412 @@
+[
+  {
+    "College": "Indian Institute of Technology Bombay",
+    "Median Package (LPA)": "13",
+    "Website Link": "http://www.iitb.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Delhi",
+    "Median Package (LPA)": "15.5",
+    "Website Link": "http://www.iitd.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Madras",
+    "Median Package (LPA)": "15",
+    "Website Link": "http://www.iitm.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Kanpur",
+    "Median Package (LPA)": "17",
+    "Website Link": "http://www.iitk.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Hyderabad",
+    "Median Package (LPA)": "17",
+    "Website Link": "http://www.iith.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Kharagpur",
+    "Median Package (LPA)": "16",
+    "Website Link": "http://www.iitkgp.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Roorkee",
+    "Median Package (LPA)": "17.5",
+    "Website Link": "http://www.iitr.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology (BHU) Varanasi",
+    "Median Package (LPA)": "13.4",
+    "Website Link": "http://iitbhu.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Guwahati",
+    "Median Package (LPA)": "18",
+    "Website Link": "http://www.iitg.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Indore",
+    "Median Package (LPA)": "16.5",
+    "Website Link": "http://www.iiti.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Gandhinagar",
+    "Median Package (LPA)": "8.9",
+    "Website Link": "http://www.iitgn.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Ropar",
+    "Median Package (LPA)": "12.2",
+    "Website Link": "http://www.iitrpr.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology (ISM) Dhanbad",
+    "Median Package (LPA)": "11",
+    "Website Link": "http://iitism.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Bhubaneswar",
+    "Median Package (LPA)": "13.5",
+    "Website Link": "https://www.iitbbs.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Jodhpur",
+    "Median Package (LPA)": "12.25",
+    "Website Link": "http://www.iitj.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Tirupati",
+    "Median Package (LPA)": "11",
+    "Website Link": "http://iittp.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Mandi",
+    "Median Package (LPA)": "10",
+    "Website Link": "http://www.iitmandi.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Patna",
+    "Median Package (LPA)": "14",
+    "Website Link": "http://www.iitp.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Dharwad",
+    "Median Package (LPA)": "11",
+    "Website Link": "http://www.iitdh.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Bhilai",
+    "Median Package (LPA)": "11",
+    "Website Link": "https://www.iitbhilai.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Palakkad",
+    "Median Package (LPA)": "11.5",
+    "Website Link": "http://iitpkd.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Goa",
+    "Median Package (LPA)": "11.6",
+    "Website Link": "https://www.iitgoa.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Technology Jammu",
+    "Median Package (LPA)": "12.2",
+    "Website Link": "http://iitjammu.ac.in/"
+  },
+  {
+    "College": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
+    "Median Package (LPA)": "6.3",
+    "Website Link": "https://www.nitj.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Engineering Science and Technology, Shibpur",
+    "Median Package (LPA)": "7",
+    "Website Link": "https://www.iiests.ac.in/"
+  },
+  {
+    "College": "Malaviya National Institute of Technology Jaipur",
+    "Median Package (LPA)": "7",
+    "Website Link": "http://www.mnit.ac.in/"
+  },
+  {
+    "College": "Maulana Azad National Institute of Technology Bhopal",
+    "Median Package (LPA)": "6.5",
+    "Website Link": "http://www.manit.ac.in/"
+  },
+  {
+    "College": "Motilal Nehru National Institute of Technology Allahabad",
+    "Median Package (LPA)": "11.6",
+    "Website Link": "http://www.mnnit.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Agartala",
+    "Median Package (LPA)": "7",
+    "Website Link": "https://www.nita.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Calicut",
+    "Median Package (LPA)": "9",
+    "Website Link": "http://www.nitc.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Delhi",
+    "Median Package (LPA)": "8",
+    "Website Link": "https://nitdelhi.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Durgapur",
+    "Median Package (LPA)": "8",
+    "Website Link": "https://nitdgp.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Goa",
+    "Median Package (LPA)": "6.5",
+    "Website Link": "http://www.nitgoa.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Hamirpur",
+    "Median Package (LPA)": "7",
+    "Website Link": "http://nith.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Karnataka, Surathkal",
+    "Median Package (LPA)": "10",
+    "Website Link": "https://www.nitk.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Meghalaya",
+    "Median Package (LPA)": "5",
+    "Website Link": "https://www.nitm.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Nagaland",
+    "Median Package (LPA)": "4",
+    "Website Link": "https://nitnagaland.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Patna",
+    "Median Package (LPA)": "6.5",
+    "Website Link": "http://www.nitp.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Puducherry",
+    "Median Package (LPA)": "5",
+    "Website Link": "https://www.nitpy.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Raipur",
+    "Median Package (LPA)": "8.1",
+    "Website Link": "http://www.nitrr.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology Sikkim",
+    "Median Package (LPA)": "5",
+    "Website Link": "http://nitsikkim.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Andhra Pradesh",
+    "Median Package (LPA)": "5.5",
+    "Website Link": "https://www.nitandhra.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Jamshedpur",
+    "Median Package (LPA)": "8",
+    "Website Link": "http://www.nitjsr.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Kurukshetra",
+    "Median Package (LPA)": "8",
+    "Website Link": "http://www.nitkkr.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Manipur",
+    "Median Package (LPA)": "6",
+    "Website Link": "http://www.nitmanipur.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Mizoram",
+    "Median Package (LPA)": "6.2",
+    "Website Link": "https://www.nitmz.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Rourkela",
+    "Median Package (LPA)": "7.1",
+    "Website Link": "https://www.nitrkl.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Silchar",
+    "Median Package (LPA)": "6.6",
+    "Website Link": "http://www.nits.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Srinagar",
+    "Median Package (LPA)": "6.8",
+    "Website Link": "https://nitsri.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Tiruchirappalli",
+    "Median Package (LPA)": "10.5",
+    "Website Link": "https://www.nitt.edu/"
+  },
+  {
+    "College": "National Institute of Technology, Uttarakhand",
+    "Median Package (LPA)": "6",
+    "Website Link": "https://nituk.ac.in/"
+  },
+  {
+    "College": "National Institute of Technology, Warangal",
+    "Median Package (LPA)": "9",
+    "Website Link": "https://www.nitw.ac.in/"
+  },
+  {
+    "College": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "Median Package (LPA)": "7.5",
+    "Website Link": "https://www.svnit.ac.in/"
+  },
+  {
+    "College": "Visvesvaraya National Institute of Technology, Nagpur",
+    "Median Package (LPA)": "8.5",
+    "Website Link": "https://vnit.ac.in/"
+  },
+  {
+    "College": "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior",
+    "Median Package (LPA)": "15.7",
+    "Website Link": "http://www.iiitm.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology (IIIT) Nagpur",
+    "Median Package (LPA)": "8.4",
+    "Website Link": "https://iiitn.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology (IIIT) Pune",
+    "Median Package (LPA)": "14.5",
+    "Website Link": "https://www.iiitp.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology, Sri City",
+    "Median Package (LPA)": "7.8",
+    "Website Link": "https://www.iiits.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology (IIIT)Kota, Rajasthan",
+    "Median Package (LPA)": "9",
+    "Website Link": "https://iiitkota.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Bhagalpur",
+    "Median Package (LPA)": "8.5",
+    "Website Link": "https://www.iiitbh.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh",
+    "Median Package (LPA)": "6.6",
+    "Website Link": "https://iiitk.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Guwahati",
+    "Median Package (LPA)": "6.25",
+    "Website Link": "http://www.iiitg.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Lucknow",
+    "Median Package (LPA)": "14",
+    "Website Link": "https://iiitl.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Manipur",
+    "Median Package (LPA)": "5.4",
+    "Website Link": "http://www.iiitmanipur.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Srirangam, Tiruchirappalli",
+    "Median Package (LPA)": "8.7",
+    "Website Link": "http://www.iiitt.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology Surat",
+    "Median Package (LPA)": "8",
+    "Website Link": "http://www.iiitsurat.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology, Agartala",
+    "Median Package (LPA)": "0",
+    "Website Link": "https://www.iiitagartala.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Median Package (LPA)": "19",
+    "Website Link": "https://www.iiita.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",
+    "Median Package (LPA)": "4.5",
+    "Website Link": "https://www.iiitdm.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology(IIIT) Dharwad",
+    "Median Package (LPA)": "7.3",
+    "Website Link": "https://iiitdwd.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal",
+    "Median Package (LPA)": "7.8",
+    "Website Link": "http://iiitkalyani.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana",
+    "Median Package (LPA)": "8.5",
+    "Website Link": "http://www.iiitsonepat.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology(IIIT) Kottayam",
+    "Median Package (LPA)": "5.5",
+    "Website Link": "https://www.iiitkottayam.ac.in/#!/home"
+  },
+  {
+    "College": "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh",
+    "Median Package (LPA)": "4.5",
+    "Website Link": "http://www.iiitu.ac.in/#gsc.tab=0"
+  },
+  {
+    "College": "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat",
+    "Median Package (LPA)": "13",
+    "Website Link": "http://www.iiitvadodara.ac.in/"
+  },
+  {
+    "College": "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur",
+    "Median Package (LPA)": "9.4",
+    "Website Link": "https://www.iiitdmj.ac.in/"
+  },
+  {
+    "College": "Indian Institute of Information Technology (IIIT) Ranchi",
+    "Median Package (LPA)": "7.2",
+    "Website Link": "https://iiitranchi.ac.in/  "
+  },
+  {
+    "College": "Birla Institute of Technology, Mesra, Ranchi",
+    "Median Package (LPA)": "12",
+    "Website Link": "https://www.bitmesra.ac.in/"
+  },
+  {
+    "College": "International Institute of Information Technology, Bhubaneswar",
+    "Median Package (LPA)": "4.5",
+    "Website Link": "https://www.iiit-bh.ac.in/"
+  },
+  {
+    "College": "International Institute of Information Technology, Naya Raipur",
+    "Median Package (LPA)": "7.5",
+    "Website Link": "https://www.iiitnr.ac.in/"
+  },
+  {
+    "College": "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",
+    "Median Package (LPA)": "4.5",
+    "Website Link": "http://www.jkinstitutetpc.in/"
+  },
+  {
+    "College": "Punjab Engineering College, Chandigarh",
+    "Median Package (LPA)": "8.7",
+    "Website Link": "https://pec.ac.in/"
+  }
+]
